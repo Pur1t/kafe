@@ -40,3 +40,11 @@ public class SignupService {
         return repository.findByUsername(username);
     }
 }
+
+//_________________________________
+//             ||  ||
+//             ||  ||
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=
+//      Name: Purit Tepkrit
+//     Student ID: 6410402121
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=

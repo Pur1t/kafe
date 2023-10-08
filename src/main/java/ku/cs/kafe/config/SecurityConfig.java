@@ -62,3 +62,11 @@ public class SecurityConfig {
                 .requestMatchers(new AntPathRequestMatcher("/h2-console/**"));
     }
 }
+
+//_________________________________
+//             ||  ||
+//             ||  ||
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=
+//      Name: Purit Tepkrit
+//     Student ID: 6410402121
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=

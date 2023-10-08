@@ -11,3 +11,11 @@ public interface MemberRepository extends JpaRepository<Member, UUID> {
     // SELECT * from Member WHERE username = 'username'
     Member findByUsername(String username);
 }
+
+//_________________________________
+//             ||  ||
+//             ||  ||
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=
+//      Name: Purit Tepkrit
+//     Student ID: 6410402121
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=

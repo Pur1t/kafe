@@ -10,3 +10,11 @@ import java.util.UUID;
 @Repository
 public interface CategoryRepository extends JpaRepository<Category, UUID> {
 }
+
+//_________________________________
+//             ||  ||
+//             ||  ||
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=
+//      Name: Purit Tepkrit
+//     Student ID: 6410402121
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=

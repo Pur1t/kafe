@@ -10,3 +10,11 @@ import java.util.UUID;
 @Repository
 public interface MenuRepository extends JpaRepository<Menu, UUID> {
 }
+
+//_________________________________
+//             ||  ||
+//             ||  ||
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=
+//      Name: Purit Tepkrit
+//     Student ID: 6410402121
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=

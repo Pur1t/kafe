@@ -9,3 +9,11 @@ import org.springframework.stereotype.Repository;
 public interface OrderItemRepository
         extends JpaRepository<OrderItem, OrderItemKey> {
 }
+
+//_________________________________
+//             ||  ||
+//             ||  ||
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=
+//      Name: Purit Tepkrit
+//     Student ID: 6410402121
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=

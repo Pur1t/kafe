@@ -10,3 +10,11 @@ import java.util.UUID;
 public interface PurchaseOrderRepository
         extends JpaRepository<PurchaseOrder, UUID> {
 }
+
+//_________________________________
+//             ||  ||
+//             ||  ||
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=
+//      Name: Purit Tepkrit
+//     Student ID: 6410402121
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=

@@ -36,3 +36,11 @@ public class UserDetailsServiceImp implements UserDetailsService {
                 user.getUsername(), user.getPassword(), authorities);
     }
 }
+
+//_________________________________
+//             ||  ||
+//             ||  ||
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=
+//      Name: Purit Tepkrit
+//     Student ID: 6410402121
+// =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=
